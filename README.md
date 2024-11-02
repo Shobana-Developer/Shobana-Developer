@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shobana</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/108183/screenshots/6579910/dropped_dots.gif" alt="shobana-developer" /> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobana-developer&label=Profile%20views&color=0e75b6&style=flat" height="400" alt="shobana-developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobana-developer&label=Profile%20views&color=0e75b6&style=flat"  alt="shobana-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobana-developer" alt="shobana-developer" /></a> </p>
 
